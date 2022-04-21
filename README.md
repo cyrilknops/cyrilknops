@@ -15,5 +15,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a smarthome service and frontend
-- 🌱 I’m currently migrating a multi repo project into a nx monorepo while updating angular 8 to angular 13
+- 💻 Working at AVIOBOOK converting a multi repo application to a NX monorepo
 - 📫 How to reach me: cyril@iwg-it.com
